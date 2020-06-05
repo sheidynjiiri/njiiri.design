@@ -1,2 +1,2 @@
 # njiiri.design
-Personal site
+Personal site :)
