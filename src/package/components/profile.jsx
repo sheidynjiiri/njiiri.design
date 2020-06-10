@@ -48,7 +48,7 @@ const DEFAULT_OPTIONS = Object.freeze({
         }
     },
     maxCardsPerRow: null,
-    showContactInfos: false,
+    showContactInfos: true,
     dismissFooter: false
 });
 
