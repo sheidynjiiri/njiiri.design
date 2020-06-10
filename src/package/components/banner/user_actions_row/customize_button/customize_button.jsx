@@ -33,7 +33,7 @@ export const CustomizeButton = () => {
     const classes = useStyles();
     const isMobile = useMediaQuery('(max-width:500px)', { defaultMatches: true });
     const downloadResume = () => {
-        window.location.assign('https://google.com');
+        window.location.assign('https://raw.githubusercontent.com/sheidynjiiri/njiiri.design/build/src/assets/Njiiri_Resume.pdf');
     };
     return (
         <>

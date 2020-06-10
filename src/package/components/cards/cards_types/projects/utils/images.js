@@ -1,1 +1,1 @@
-export const DEFAULT_PROJECT_IMAGE = 'https://cdn.filestackcontent.com/resize=w:500/compress/dLXE4WC8S3mZFZNfClTK';
+export const DEFAULT_PROJECT_IMAGE = 'https://raw.githubusercontent.com/sheidynjiiri/njiiri.design/build/src/assets/meetup.png';

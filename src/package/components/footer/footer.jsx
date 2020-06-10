@@ -9,8 +9,8 @@ import { useMediaQuery } from '@material-ui/core';
 
 import { ShareLinks } from './share_links/share_links';
 
-import { ReactComponent as Logo } from '../../assets/icons/brands/welovedevs.svg';
-import { ReactComponent as GithubLogo } from '../../assets/icons/brands/github.svg';
+// import { ReactComponent as Logo } from '../../assets/icons/brands/welovedevs.svg';
+// import { ReactComponent as GithubLogo } from '../../assets/icons/brands/github.svg';
 
 import { styles } from './footer_styles';
 
@@ -28,7 +28,7 @@ const FooterComponent = () => {
     if (useSmallLayout) {
         return (
             <div className={cn(classes.container, useSmallLayout && classes.smallLayoutContainer)}>
-                <div className={classes.wldLogoGithubLogoContainer}>
+                {/* <div className={classes.wldLogoGithubLogoContainer}>
                     <a
                         className={classes.logoLink}
                         href="https://welovedevs.com"
@@ -54,7 +54,7 @@ const FooterComponent = () => {
                             <GithubLogo className={classes.githubLogo} />
                         </a>
                     </Tooltip>
-                </div>
+                </div> */}
                 <ShareLinks useSmallLayout />
             </div>
         );
@@ -63,7 +63,7 @@ const FooterComponent = () => {
     return (
         <div className={classes.container}>
             <a className={classes.logoLink} href="https://welovedevs.com" target="_blank" rel="noreferrer noopener">
-                <Logo className={classes.logo} />
+                {/* <Logo className={classes.logo} /> */}
             </a>
             <ShareLinks />
             <Tooltip
@@ -77,7 +77,7 @@ const FooterComponent = () => {
                     target="_bank"
                     rel="noreferer noopener"
                 >
-                    <GithubLogo className={classes.githubLogo} />
+                    {/* <GithubLogo className={classes.githubLogo} /> */}
                 </a>
             </Tooltip>
         </div>

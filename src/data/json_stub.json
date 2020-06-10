@@ -2,7 +2,7 @@
     "basics": {
         "name": "Gathigia Njiiri",
         "label": "Experience Designer",
-        "picture": "",
+        "picture": "https://raw.githubusercontent.com/sheidynjiiri/njiiri.design/build/src/assets/profile-avatar.png",
         "email": "sheidynjiiri@gmail.com",
         "phone": "(254) 786770842",
         "website": "http://njiiri.design",
@@ -221,7 +221,7 @@
     },
     "resumeCustomization": {
         "imageHeader": {
-            "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp",
+            "url": "https://raw.githubusercontent.com/sheidynjiiri/njiiri.design/build/src/assets/header.png",
             "alt": "Default Banner"
         },
         "cardsOrder": [
