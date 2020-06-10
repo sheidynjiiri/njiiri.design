@@ -1,0 +1,245 @@
+{
+    "basics": {
+        "name": "Gathigia Njiiri",
+        "label": "Experience Designer",
+        "picture": "",
+        "email": "sheidynjiiri@gmail.com",
+        "phone": "(254) 786770842",
+        "website": "http://njiiri.design",
+        "summary": "Solving problems contextually and with simplicity through UX design.",
+        "location": {
+            "address": "Nairobi",
+            "postalCode": "",
+            "city": "Nairobi",
+            "countryCode": "KE",
+            "region": "Nairobi"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "_Njiiri",
+                "url": "https://mobile.twitter.com/_Njiiri"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "gathigianjiiri",
+                "url": "https://www.linkedin.com/in/gathigianjiiri/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "Africa's Talking Labs",
+            "position": "UX Lead Africa's Talking Labs",
+            "website": "https://africastalking.com/",
+            "startDate": "2018-11-01",
+            "summary": "I design Labs products, for the starups incubated & entreprises we engage. These are in the mobility, health, banking, microfinance, wellness, communication & data science industries. My process begin with user research, team design sprints, business design, ux writing, wireframing,",
+            "location": "Nairobi, Kenya",
+            "highlights": ["Created a custom UX curriculumn & lead a beginner team of 2 through a UX course & adoption of projects progressively"]
+        },
+        {
+            "name": "Akiliplus UX School",
+            "position": "UX Instructor",
+            "website": "https://www.akiliplus.com/",
+            "startDate": "2013-01-01",
+            "summary": "Help design UX curriculum & teach UX courses online",
+            "location": "Nairobi, Kenya"
+        },
+        {
+            "name": "Leanity Dynamics Africa",
+            "position": "Product Ninja",
+            "website": "https://leanitydynamics.com/",
+            "summary": "Leanity is a startup in the trade industry and I was tasked with understanding the sales cycle via juser research & designing a product to help automate sales. They use the product to date.",
+            "location": "Nairobi, Kenya"
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "UX Kitchen Community",
+            "position": "Founder",
+            "website": "https://www.meetup.com/UX-Kichen",
+            "endDate": "2020-01-01",
+            "summary": "We hold free monthly meetups to teach designers & corporates how to build products that are human-centred with business design in mind."
+        },
+        {
+            "organization": "Figma",
+            "position": "Ambassador",
+            "website": "https://www.meetup.com/figma-africa/",
+            "endDate": "2020-01-01",
+            "summary": "With other Figma Africa ambassadors, we hold learn design sessions to democratize design education."
+        }
+    ],
+    "education": [
+        {
+            "institution": "MEST",
+            "area": "Software Entrepreneurship",
+            "studyType": "Engineer Degree",
+            "startDate": "2016-05-01",
+            "endDate": "2017-07-01",
+            "courses": ["Software Entrepreneurship"]
+        },
+        {
+            "institution": "Kenyatta University",
+            "area": "Recreation & Health Science mgt",
+            "studyType": "Health Science",
+            "startDate": "2011-09-01",
+            "endDate": "2015-08-01",
+            "courses": ["B/Sci Recreation & Health Science Mgt"]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2020-01-01",
+            "website": "http://publication.com",
+            "summary": "Description..."
+        }
+    ],
+    "skills": [
+        {
+            "name": " UX Research ",
+            "level": "Master",
+            "value": 100,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "Design Sprints",
+            "level": "Master",
+            "value": 80,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "UI with Figma",
+            "level": "Master",
+            "value": 80,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "Information Architecture",
+            "level": "Master",
+            "value": 40,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "Business Design",
+            "level": "Master",
+            "value": 60,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "Design Leadership",
+            "level": "Master",
+            "value": 80,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "Wireframing with Balsamiq",
+            "level": "Master",
+            "value": 80,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+ 
+        {
+            "name": "Product Management",
+            "level": "Master",
+            "value": 80,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        }
+    ],
+    "languages": [
+        { "language": "English", "value": 100, "fluency": "Native speaker" },
+        { "language": "Swahili", "value": 100, "fluency": "Native speaker" },
+        { "language": "French", "value": 20, "fluency": "Native speaker" },
+        { "language": "Kikuyu", "value": 80, "fluency": "Native speaker" }
+    ],
+    "interests": [
+        {
+            "name": "Swimming",
+            "gifUrl": "https://media.giphy.com/media/3ov9jS0LB3aPQtpf20/giphy.gif"
+        },
+        {
+            "name": "Low-carb baking",
+            "gifUrl": "https://media.giphy.com/media/l0MYOwKlDcMWvsMXC/giphy.gif"
+        },
+        {
+            "name": "Running",
+            "gifUrl": "https://media.giphy.com/media/H7wDWXvJhjtkn6QURb/giphy.gif"
+        },
+        {
+            "name": "Poetry",
+            "gifUrl": "https://media.giphy.com/media/lRwiAPgpdNYmk/giphy.gif"
+        },
+        {
+            "name": "Song writing",
+            "gifUrl": "https://media.giphy.com/media/ydMElLbfD72yA/giphy.gif"
+        },
+        {
+            "name": "Skipping",
+            "gifUrl": "https://media.giphy.com/media/U8MMXbNRKd7Lt519nk/giphy.gif"
+        }
+    ],
+    "projects": [
+        {
+            "name": "UX Kitchen",
+            "description": "We hold free monthly meetups to teach designers & corporates how to build products that are human-centred with business design in mind.",
+            "images": []
+        }
+    ],
+    "specific": {
+        "basics": {
+            "visaSponsorship": true,
+            "personalDescription": "We hold free monthly meetups to teach designers & corporates how to build products that are human-centred with business design in mind."
+        },
+        "dreamJob": {
+            "locations": [{ "name": "Africa" }, { "name": "USA & Canada, France" }, { "name": "Europe,France" }],
+            "remoteFrequency": "regularly"
+        },
+        "currentJob": {
+            "issues": { }
+        },
+        "education": { "studiesLevel": 5 },
+        "work": {
+            "contractTypes": ["permanent", "fixedTerm", "freelance"],
+            "codingYears": 5,
+            "codingReason": "Love UX for the ability of solving problems contextually & sustainably",
+            "searchState": "activelySearching",
+            "experienceYears": 5
+        },
+        "sound": {
+            "embedUrl": "https://open.spotify.com/embed/playlist/28gkj3su0EjS9tD20XTG9T"
+        },
+        "interestedBy": "AR, Human Centered Design"
+    },
+    "resumeCustomization": {
+        "imageHeader": {
+            "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp",
+            "alt": "Default Banner"
+        },
+        "cardsOrder": [
+            { "type": "basics", "variant": 4 },
+            { "type": "experiences", "variant": 4 },
+            { "type": "skills", "variant": 0 },
+            { "type": "projects", "variant": 4 },
+            { "type": "gifs", "variant": 0 },
+            { "type": "studies", "variant": 4 },
+            { "type": "dreamjob", "variant": 4 },
+            { "type": "interestedBy", "variant": 3 },
+            { "type": "language", "variant": 4 },
+            { "type": "soundtrack", "variant": 4 }
+        ],
+        "fields": {
+            "work": {
+                "customDateFormat": "YYYY"
+            }
+        }
+    }
+}
