@@ -1,6 +1,6 @@
 {
     "name": "njiiri-resume",
-    "version": "1.0.0",
+    "version": "1.0.0.beta-1",
     "description": "Developer profile for @sheidynjiiri",
     "main": "lib/index.js",
     "scripts": {
