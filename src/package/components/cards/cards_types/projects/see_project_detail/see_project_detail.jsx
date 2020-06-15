@@ -22,7 +22,10 @@ const SeeProjectDetailComponent = ({ color, project }) => {
     const classes = useStyles();
     const { isEditing } = useContext(DeveloperProfileContext);
 
-    const [openDialog, setDialogOpened, setDialogClosed] = useCallbackOpen();
+    const [openDialog, setDialogClosed] = useCallbackOpen();
+    const viewBlog = () => {
+        window.open('https://medium.com/@uxkitchenke');
+    };
     return (
         <>
             <ProjectDialog
@@ -32,11 +35,11 @@ const SeeProjectDetailComponent = ({ color, project }) => {
                 onClose={setDialogClosed}
                 handleProfileCardHasDialogOpened
             />
-            <AnimatedUnderlinedButton color={color} onClick={setDialogOpened}>
+            <AnimatedUnderlinedButton color={color} onClick={viewBlog}>
                 {!isEditing && <EyeIcon className={classes.icon} />}
                 {isEditing && <EditIcon className={classes.fillIcon} />}
                 <Typography customClasses={{ container: classes.detailTypography }} color="primary">
-                    {!isEditing && <FormattedMessage id="Projects.details.seemore" defaultMessage="See more" />}
+                    {!isEditing && <FormattedMessage id="Projects.details.viewblog" defaultMessage="View Blog" />}
                     {isEditing && <FormattedMessage id="Main.lang.edit" defaultMessage="Edit" />}
                 </Typography>
             </AnimatedUnderlinedButton>

@@ -207,6 +207,8 @@
     "Projects.back.title": "Projects",
     "Coolstuff.back.title": "Cool Things",
     "Projects.details.seemore": "See more",
+    "Projects.details.viewblog": "View Blog",
+
     "Projects.dialog.content.title": "Project title",
     "Projects.front.action": "See {count} project{count, plural, one {} other {s}}",
     "Coolstuff.front.action": "See {count} stuff{count, plural, one {} other {s}}",
