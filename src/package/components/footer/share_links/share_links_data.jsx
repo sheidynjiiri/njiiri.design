@@ -13,7 +13,7 @@ export const SHARE_LINKS_DATA = Object.freeze({
         tooltipTranslation: (
             <FormattedMessage
                 id="Footer.shareLinks.shareOnTooltip"
-                defaultMessage="Share on {platform}"
+                defaultMessage="My {platform} Profile"
                 values={{ platform: 'Twitter' }}
             />
         ),
@@ -24,7 +24,7 @@ export const SHARE_LINKS_DATA = Object.freeze({
         tooltipTranslation: (
             <FormattedMessage
                 id="Footer.shareLinks.shareOnTooltip"
-                defaultMessage="Share on {platform}"
+                defaultMessage="My {platform} Profile"
                 values={{ platform: 'LinkedIn' }}
             />
         ),

@@ -14,9 +14,8 @@ export const CodingYears = ({ codingYears }) => {
     }
     return (
         <FormattedMessage
-            id="Basics.Back.CodingYears.value"
-            defaultMessage={'{codingYears, plural, one {# year} other {# years} } coding'}
-            values={{ codingYears }}
+            id="Basics.Back.CodingYear.value"
+            defaultMessage={'Going 5 years of UX experience in tech.'}
         />
     );
 };
