@@ -15,6 +15,7 @@ import { getRandomCardVariant } from '../../utils/styles/theme/theme';
 import { DEFAULT_CARD_ORDER } from './utils/cards_order';
 import { styles } from './cards_styles';
 import { useAdditionalNodes } from '../hooks/use_additional_nodes';
+import { ReachOutCard } from './cards_types/reachout/dream_job_card';
 
 const useStyles = createUseStyles(styles);
 
@@ -29,7 +30,8 @@ const CARD_TYPE_MAPPING = {
     studies: StudiesCard,
     skills: SkillsCard,
     soundtrack: SoundtrackCard,
-    interestedBy: InterestedByCard
+    interestedBy: InterestedByCard,
+    reachOutCard: ReachOutCard
 };
 
 const CardsComponent = ({ cardsOrder = DEFAULT_CARD_ORDER, side, maxCardsPerRow }) => {

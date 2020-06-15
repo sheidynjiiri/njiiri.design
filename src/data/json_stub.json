@@ -269,7 +269,7 @@
             { "type": "language", "variant": 4 },
             { "type": "gifs", "variant": 0 },
             { "type": "soundtrack", "variant": 4 },
-            { "type": "awards", "variant": 4 }
+            { "type": "reachOutCard", "variant": 4 }
 
 
         ],
