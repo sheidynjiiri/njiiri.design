@@ -12,6 +12,8 @@ import { ProfileCardActions } from '../../../../commons/profile_card/profile_car
 import { ProfileCardButton } from '../../../../commons/profile_card/profile_card_button/profile_card_button';
 
 import { ReactComponent as SpotifyLogo } from '../../../../../assets/icons/brands/spotify.svg';
+// import { ReactComponent as SongLogo } from '../../../../../assets/icons/brands/spotify.svg';
+
 import { SIDES } from '../../../../commons/profile_card/profile_card_side/side';
 
 import { styles } from './soundtrack_front_styles';
