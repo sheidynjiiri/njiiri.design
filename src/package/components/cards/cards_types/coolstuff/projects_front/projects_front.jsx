@@ -78,15 +78,15 @@ const ProjectsFrontComponent = ({ data, handleAddButtonClick }) => {
     );
 };
 
-const Content = ({ hasProject, projectTitle, handleAddButtonClick, classes }) => {
+const Content = ({ hasProject, handleAddButtonClick, classes }) => {
     if (hasProject) {
         return (
             <Typography variant="h2" component="h2" customClasses={{ container: classes.text }}>
                 <FormattedMessage
                     id="Coolstuff.front.title"
-                    defaultMessage="Cool things I’ve done:"
+                    defaultMessage="Cool things I’ve done"
                 />
-                {projectTitle}
+                {/* {projectTitle} */}
             </Typography>
         );
     }
@@ -94,7 +94,7 @@ const Content = ({ hasProject, projectTitle, handleAddButtonClick, classes }) =>
         <div className={classes.noProject}>
             <Typography variant="h3" component="h3" customClasses={{ container: classes.noProjectTypography }}>
                 <FormattedMessage id="Projects.front.noProject" defaultMessage="You didn't add any projects." />
-                {projectTitle}
+                {/* {projectTitle} */}
             </Typography>
             <NoDataButton
                 classes={{

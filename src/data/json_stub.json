@@ -33,7 +33,7 @@
             "position": "UX Lead",
             "website": "https://africastalking.com/",
             "startDate": "2018-11-01",
-            "summary": "I design products at Africa's Talking for the startups incubated & enterprises we engage. These are in the mobility, health, banking, microfinance, wellness, communication & data science industries. My process begins with user research, team design sprints, business design, ux writing, solution wireframing, usability testing & product design project management",
+            "summary": "I design products at Africa's Talking for the startups incubated & enterprises we engage. These are in the mobility, health, banking, microfinance, wellness, communication & data science industries. My process begins with user research, team design sprints, business design, ux writing, solution wireframing, usability testing & product design project management. In addition to leading the UX team, I've created a UX playbook for the entire AT group for UX reference by product squads. ",
             "location": "Nairobi, Kenya",
             "highlights": ["Created a custom UX curriculumn & lead a beginner team of 2 through a UX course & adoption of projects progressively"]
         },
@@ -42,14 +42,14 @@
             "position": "UX Instructor",
             "website": "https://www.akiliplus.com/",
             "startDate": "2013-01-01",
-            "summary": "Help design UX curriculum & teach UX courses online",
+            "summary": "I helped design UX curriculum & teach UX courses online.",
             "location": "Nairobi, Kenya"
         },
         {
             "name": "Leanity Dynamics Africa",
             "position": "Product Ninja",
             "website": "https://leanitydynamics.com/",
-            "summary": "Leanity is a startup in the trade industry and I was tasked with understanding the sales cycle via juser research & designing a product to help automate sales. They use the product to date.",
+            "summary": "Leanity is a startup in the trade industry and I was tasked with understanding the sales cycle via user research & designing a product to help automate sales. They use the product to date.",
             "location": "Nairobi, Kenya"
         }
     ],
@@ -80,8 +80,8 @@
         },
         {
             "institution": "Akiliplus",
-            "area": "UX",
-            "studyType": "Certificate",
+            "area": "UX Certificate",
+            "studyType": "",
             "startDate": "2019-05-01",
             "endDate": "2019-07-01",
             "courses": ["Software Entrepreneurship"]
@@ -212,7 +212,7 @@
         },
         {
             "name": "Unconference Global",
-            "description": "Spoke at the unconference global ‘virtual conference’ on Building your confidence as a UXer. (June 2020)",
+            "description": "Spoke at the unconference global ‘virtual conference’ on Building your confidence as a UXer, UX for business strategy & UX UI in the real world . (June 2020)",
             "images": []
         },
         {
