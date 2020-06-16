@@ -28,11 +28,11 @@ const mode = process.env.REACT_APP_MODE || 'readOnly';
 function App() {
     const classes = useStyles();
     const [data, setData] = useState(omit(JsonStub, 'resumeCustomization'));
-
     const onEdit = useCallback((newData) => setData(mergeWith(cloneDeep(data), newData, mergeFunction)), [
         JSON.stringify(data)
     ]);
     const [customization, setCustomization] = useState(JsonStub.resumeCustomization || {});
+    // console.log('aye', customization);
 
     const onCustomizationChanged = useCallback(setCustomization, [data]);
 

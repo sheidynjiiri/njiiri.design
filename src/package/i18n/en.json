@@ -140,7 +140,7 @@
     "Experiences.editDialog.start": "From : ",
     "Experiences.editDialog.stillEmployed": "Still working there",
     "Experiences.editDialog.title": "Edit your professional experiences?",
-    "Experiences.front.action": "See all experiences",
+    "Experiences.front.action": "See more experiences",
     "Experiences.front.noWork": "You do not have any experience yet !",
     "Experiences.noWork.buttonLabel": "Add an experience",
     "Experiences.noWork.title": "Add here works you did during your career .",
@@ -211,7 +211,8 @@
 
     "Projects.dialog.content.title": "Project title",
     "Projects.front.action": "See {count} project{count, plural, one {} other {s}}",
-    "Coolstuff.front.action": "See {count} stuff{count, plural, one {} other {s}}",
+    "Coolstuff.front.actions": "See {count} stuff{count, plural, one {} other {s}}",
+    "Coolstuff.front.action": "See more stuff",
     "Projects.front.noProject": "You do not have any project yet !",
     "Projects.front.title": "My <emoji>♥️</emoji> project : ",
     "Coolstuff.front.title": "Cool things I’ve done:",

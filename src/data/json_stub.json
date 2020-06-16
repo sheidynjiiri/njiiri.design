@@ -73,7 +73,7 @@
         {
             "institution": "MEST",
             "area": "Software Entrepreneurship",
-            "studyType": "Engineer Degree",
+            "studyType": "",
             "startDate": "2016-05-01",
             "endDate": "2018-07-01",
             "courses": ["Software Entrepreneurship"]
@@ -132,34 +132,33 @@
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "UI with Figma",
+            "name": "Wireframing with Balsamiq",
             "level": "Master",
-            "value": 80,
+            "value": 85,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
             "name": "Information Architecture",
             "level": "Master",
-            "value": 40,
+            "value": 80,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
             "name": "Business Design",
             "level": "Master",
-            "value": 60,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "Wireframing with Balsamiq",
-            "level": "Master",
             "value": 80,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
- 
         {
             "name": "Product Management",
             "level": "Master",
             "value": 80,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "UI with Figma",
+            "level": "Master",
+            "value": 50,
             "keywords": ["HTML", "CSS", "Javascript"]
         }
     ],
@@ -190,12 +189,12 @@
             "gifUrl": "https://media.giphy.com/media/U8MMXbNRKd7Lt519nk/giphy.gif"
         },
         {
-            "name": "Channeling",
+            "name": "Channeling Jhene Aiko",
             "gifUrl": "https://media.giphy.com/media/RGkQAquaH7lGoE3FnL/giphy.gif"
         },
         {
             "name": "Overthinking",
-            "gifUrl": "https://media.giphy.com/media/RGkQAquaH7lGoE3FnL/giphy.gif"
+            "gifUrl": "https://media.giphy.com/media/1jl173guBKkbvC03rQ/giphy.gif"
         }
     ],
     "projects": [
@@ -265,13 +264,10 @@
             { "type": "studies", "variant": 4 },
             { "type": "interestedBy", "variant": 3 },
             { "type": "coolstuff", "variant": 4 },
-            { "type": "dreamjob", "variant": 4 },
             { "type": "language", "variant": 4 },
             { "type": "gifs", "variant": 0 },
             { "type": "soundtrack", "variant": 4 },
             { "type": "reachOutCard", "variant": 4 }
-
-
         ],
         "fields": {
             "work": {

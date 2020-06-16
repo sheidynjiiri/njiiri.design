@@ -38,6 +38,9 @@ const CustomizeDialogComponent = ({ open, onClose, customizationOptions }) => {
     useEffect(() => {
         const asyncBuild = async () => {
             const built = await buildTheme(value?.theme);
+            // console.error(built);
+            // console.error(value);
+
             setBuiltTheme(built);
         };
         asyncBuild();
