@@ -8,7 +8,7 @@ import { ProfileCardSectionTitle } from '../../../../../commons/profile_card/pro
 import { ProfileCardSectionSubtitle } from '../../../../../commons/profile_card/profile_card_section_subtitle/profile_card_section_subtitle';
 import { ProfileCardSectionText } from '../../../../../commons/profile_card/profile_card_section_text/profile_card_section_text';
 import { ProfileCardSection } from '../../../../../commons/profile_card/profile_card_section/profile_card_section';
-import { SeeProjectDetail } from '../../see_project_detail/see_project_detail';
+// import { SeeProjectDetail } from '../../see_project_detail/see_project_detail';
 import { AnimatedUnderlinedButton } from '../../../../../commons/animated_underlined_button/animated_underlined_button';
 import { ConfirmDialog } from '../../../../../commons/confirm_dialog/confirm_dialog';
 
@@ -71,9 +71,9 @@ const Details = ({ project, index, onDelete, classes }) => {
                     </AnimatedUnderlinedButton>
                 </div>
             )}
-            <div className={classes.detail}>
+            {/* <div className={classes.detail}>
                 <SeeProjectDetail color={color} project={project} />
-            </div>
+            </div> */}
             {isEditing && <RemoveProjectDetail color={color} index={index} onDelete={onDelete} classes={classes} />}
         </div>
     );

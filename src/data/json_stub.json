@@ -33,7 +33,7 @@
             "position": "UX Lead",
             "website": "https://africastalking.com/",
             "startDate": "2018-11-01",
-            "summary": "I design products at Africa's Talking for the startups incubated & enterprises we engage. These are in the mobility, health, banking, microfinance, wellness, communication & data science industries. My process begins with user research, team design sprints, business design, ux writing, solution wireframing, usability testing & product design project management. In addition to leading the UX team, I've created a UX playbook for the entire AT group for UX reference by product squads. ",
+            "summary": "I design products at Africa's Talking for the startups incubated & enterprises we engage. These are in the mobility, health, banking, microfinance, wellness, communication & data science industries. My process begins with user research, team design sprints, business design, ux writing, solution wireframing, usability testing & product design project management. \n In addition to leading the UX team, I've created a UX playbook for the entire AT group for UX reference by product squads. ",
             "location": "Nairobi, Kenya",
             "highlights": ["Created a custom UX curriculumn & lead a beginner team of 2 through a UX course & adoption of projects progressively"]
         },
@@ -41,8 +41,8 @@
             "name": "Akiliplus UX School",
             "position": "UX Instructor",
             "website": "https://www.akiliplus.com/",
-            "startDate": "2013-01-01",
-            "summary": "I helped design UX curriculum & teach UX courses online.",
+            "startDate": "2019-01-01",
+            "summary": "I help design UX curriculum & teach UX courses online.",
             "location": "Nairobi, Kenya"
         },
         {
@@ -207,12 +207,12 @@
     "coolstuff": [
         {
             "name": "24 hours of UX",
-            "description": "Spoke at the 24 hours of UX worldwide event, representing Kenya (June 2020)",
+            "description": "Spoke at the 24 hours of UX worldwide event, representing Kenya. I tackled UX for business strategy. (June 2020)",
             "images": []
         },
         {
             "name": "Unconference Global",
-            "description": "Spoke at the unconference global ‘virtual conference’ on Building your confidence as a UXer, UX for business strategy & UX UI in the real world . (June 2020)",
+            "description": "Spoke at the unconference global ‘virtual conference’ on Building your confidence as a UXer. (June 2020)",
             "images": []
         },
         {
@@ -222,7 +222,7 @@
         },
         {
             "name": "Africa’s Developers Conference",
-            "description": "Spoke at the Africa’s Developers Conference  in Addis Ababa (October 2019)",
+            "description": "Spoke at the Africa’s Developers Conference  in Addis Ababa (October 2019). I tackled UX UI in the real world.",
             "images": []
         }
     ],

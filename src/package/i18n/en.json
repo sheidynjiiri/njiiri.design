@@ -14,7 +14,7 @@
     "Basics.Back.StudiesLevel.Title": "My Super Power",
     "Basics.Back.StudiesLevel.noHigherEducation": "Did not pursue higher education",
     "Basics.Back.StudiesLevel.value": "{studiesLevel, plural, one {# year} other {# years}} higher education",
-    "Basics.Back.Title": "Who?",
+    "Basics.Back.Title": "About Me",
     "Basics.Back.VisaSponsorship": "I need a visa sponsorship",
     "Basics.Back.Work.Title": "My Work Process",
     "Basics.Back.WorkContract.multi": "{contracts} or {lastContract} contract",

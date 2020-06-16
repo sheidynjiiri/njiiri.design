@@ -120,7 +120,7 @@ const BasicsBackComponent = ({ data, handleAddButtonClick }) => {
     );
 
     return (
-        <ProfileCardAnimatedBack title={<FormattedMessage id="Basics.Back.Title" defaultMessage="Who?" />}>
+        <ProfileCardAnimatedBack title={<FormattedMessage id="Basics.Back.Title" defaultMessage="About Me" />}>
             {Object.entries(sections)
                 .filter(([, { hide }]) => !hide)
                 .map(([id, { title, value }]) => (
