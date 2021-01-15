@@ -1,7 +1,7 @@
 {
     "name": "njiiri-resume",
     "version": "1.2.2",
-    "description": "Developer profile for @sheidynjiiri",
+    "description": "Developer profile for @_njiiri",
     "main": "lib/index.js",
     "scripts": {
         "start": "touch .env.local && sh -ac 'sh .env.${NODE_ENV:-local}; PORT=${PORT:-3000} EXTEND_ESLINT=true BROWSER=none react-scripts start'",
