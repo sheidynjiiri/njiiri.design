@@ -66,7 +66,7 @@ const DreamJobBackComponent = ({ data }) => {
                         <FormattedMessage id="Reachout.Back.whatsapp" defaultMessage="Contract types" />
                     </ProfileCardSectionTitle>
                     <ProfileCardSectionText>
-                        {'+254 786770842'}
+                        {'+254 790361555'}
                         {/* <ContractType contractTypes={contractTypes} /> */}
                     </ProfileCardSectionText>
                 </ProfileCardSection>
